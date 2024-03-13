@@ -9,8 +9,8 @@ objective of the project: The primary objective of this project is to develop an
 system leveraging deep learning techniques. Specifically, the aim is to design and implement a deep learning model 
 utilizing an Encoder-Decoder architecture enhanced with Gated Recurrent Units (GRU) and an attention mechanism.
 
-# Dataset Link : 
+# Dataset link : 
 https://www.kaggle.com/datasets/sharanharsoor/english-to-hindhi-transalation
 
-# COLAB Link : 
+# COLAB link : 
 https://colab.research.google.com/drive/1qLpf0QWJ5l40h6KcCUdUX30x353zeYjT?usp=sharing
