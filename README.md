@@ -20,4 +20,4 @@ utilizing an Encoder-Decoder architecture enhanced with Gated Recurrent Units (G
 https://www.kaggle.com/datasets/sharanharsoor/english-to-hindhi-transalation
 
 # COLAB link :-
-https://colab.research.google.com/drive/1qLpf0QWJ5l40h6KcCUdUX30x353zeYjT?usp=sharing
+https://colab.research.google.com/drive/1wenv9EkGlH2z1X6PIdO1FBFE3wMZRcu1?usp=sharing
