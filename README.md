@@ -1,4 +1,4 @@
-# Machine_Transliteration-_Encoder_Decoder
+# Intelligent_Transliteration
 
 # Introduction :-
 Machinetransliteration is the automated process of converting text from one writing system to another while 
